@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(./img/vrstevnice-grey.jpg);
+}
+.container {
+  max-width: 1440px;
+}
+.container-bg {
+  background: #ffffff90;
+}
+article h2 {
+  margin-bottom: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600 !important;
+}
+h1,
+h2 {
+  font-family: Bangers;
+  padding-top: 2rem;
+}
+.mapa > h4 {
+  margin: 0 10px 0 10px;
+  font-size: 120% !important;
+  text-transform: uppercase;
+  background-color: #f4b845;
+}
+.blog p {
+  margin-top: 1.5rem;
+}
+.mobil-menu {
+  position: absolute;
+  text-align: center;
+  z-index: 20;
+  background: rgba(255, 255, 255, 0.95);
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+}
+.mtbs {
+  max-width: 120px;
+  max-height: 80px;
+}
+@media screen and (min-width: 1000px) {
+  .blog-article {
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: 1px solid #dcdcdc;
+    -moz-column-count: 2;
+    -moz-column-gap: 50px;
+    -moz-column-rule: 1px solid #dcdcdc;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 50px;
+    -webkit-column-rule: 1px solid #dcdcdc;
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+stats/
+visits/
+.git/
+*.log
+*.sql
+*.sqlite
