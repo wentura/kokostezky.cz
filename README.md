@@ -1,0 +1,1 @@
+# kokostezky.cz
