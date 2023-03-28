@@ -1,7 +1,9 @@
 node_modules/
+.DS*
+old_bak/
 stats/
 visits/
-.git/
+# ignore log files and databases
 *.log
 *.sql
 *.sqlite
