@@ -5,8 +5,10 @@
 		</picture>
 
 		<article class="article">
-			<h2 class="text-center text-xl lg:text-4xl font-bang">Kokostezky se uložily k zimnímu spánku</h2>
-			<p class="mx-auto w-5/6 lg:w-2/3">Aktuální stav trailů není ideální a ježdění v zimním období zanechává výrazné stopy, které budeme muset opravit. Děkujeme, že respektujete naše doporučení přes zimu nejezdit a vážíte si tím naší práce.</p>
+			<h2 class="text-center text-xl lg:text-4xl font-bang">Kokostezky otevřeny!</h2>
+			<p class="mx-auto w-5/6 lg:w-2/3">Po zimním spánku jsme připravili nové traily, odstranili spadlé stromy, zametli pěšinky a nachystali nové okruhy.</p>
+			<p class="mx-auto w-5/6 lg:w-2/3"><strong>Od soboty 8. dubna můžete využít tři trailové okruhy.</strong> Jeden začíná v Kokořínském dole a na dva nové se nastupuje z parkoviště u hradu Houska. Za pár dnů doplníme ještě jeden od hradu Kokořín.<br />Užívejte si Kokostezky a jezděte opatrně a ohleduplně.<br />Těšíme se na vás.
+			</p>
 		</article>
 		<article class="article">
 			<h2 class="text-center text-xl lg:text-4xl font-bang">Milča dočasně uzavřena</h2>
