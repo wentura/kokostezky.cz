@@ -4,37 +4,27 @@
 <article class="article">
 
 	<h3 class="p-4 text-start text-xl md:text-2xl">Trailového okruhy</h3>
-	<p>
-		Základní okruh jsme rozdělili do dvou kratších (každý má cca 20 km) a skladbu trailů jsme přizpůsobili aktuální situaci související s těžbou dřeva v Kokořínském Dole a jeho okolí.
-	</p>
 	<div class="py-8 flex justify-around flex-wrap">
 		<div class="mapa md:w-1/2 xl:w-1/4">
 			<h4>Staráky</h4>
-			<p class='p-4'>21.1km, alt.548m<br /><a href="https://mapy.cz/s/raredocaja" target="_blank" class="underline m-4">mapy.cz</a>
+			<p class='p-4'>21.1km, alt.548m<br />nástup ATC Kokořín<br /><a href="https://mapy.cz/s/raredocaja" target="_blank" class="underline m-4">mapy.cz</a>
 				<br /><a href="./gpx/Staraky23.gpx" target="_blank" class="underline m-4" download>gpx soubor</a>
 			</p>
 			<img src=" ./img/Staraky23.png" class="img-responsive max-w-xs mx-auto">
 		</div>
 		<div class="mapa md:w-1/2 xl:w-1/4">
 			<h4>Kytička</h4>
-			<p class='p-4'>28.7km, alt.645m<br /><a href="https://mapy.cz/s/merurobafu" target="_blank" class="underline m-4">mapy.cz</a>
+			<p class='p-4'>28.7km, alt.645m<br />nástup hrad Houska<br /><a href="https://mapy.cz/s/merurobafu" target="_blank" class="underline m-4">mapy.cz</a>
 				<br /><a href="./gpx/Kyticka.gpx" target="_blank" class="underline m-4" download>gpx soubor</a>
 			</p>
 			<img src=" ./img/Kyticka.png" class="img-responsive max-w-xs mx-auto">
 		</div>
 		<div class="mapa md:w-1/2 xl:w-1/4">
 			<h4>Tuboh</h4>
-			<p class='p-4'>25.3km, alt.606m<br /><a href="https://mapy.cz/s/manakavere" target="_blank" class="underline m-4">mapy.cz</a>
+			<p class='p-4'>25.3km, alt.606m<br />nástup hrad Houska<br /><a href="https://mapy.cz/s/manakavere" target="_blank" class="underline m-4">mapy.cz</a>
 				<br /><a href="./gpx/Tuboh.gpx" target="_blank" class="underline m-4" download>gpx soubor</a>
 			</p>
 			<img src=" ./img/Tuboh.png" class="img-responsive max-w-xs mx-auto">
-		</div>
-		<div class="mapa md:w-1/2 xl:w-1/4">
-			<h4>Trail 1</h4>
-			<p class='p-4'>20.8km, alt.580m<br /><a href="https://en.mapy.cz/zakladni?x=14.5754168&y=50.4251400&z=15&dim=62874931f5ec8fae968a29d0" target="_blank" class="underline m-4">mapy.cz</a>
-				<br /><a href="./gpx/Trail_I_2022.gpx" target="_blank" class="underline m-4" download>gpx soubor</a>
-			</p>
-			<img src=" ./img/qr-trail-1-22.png" class="img-responsive max-w-xs">
 		</div>
 
 		<!-- <div class="mapa">
