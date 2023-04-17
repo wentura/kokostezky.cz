@@ -10,7 +10,7 @@ body {
   max-width: 1440px;
 }
 .container-bg {
-  background: #ffffff90;
+  background-color: rgba(255, 255, 255, 0.8);
 }
 article h2 {
   margin-bottom: 1rem;
@@ -29,6 +29,9 @@ h1,
 h2 {
   font-family: Bangers;
   padding-top: 2rem;
+}
+.mapa {
+  /* text-align: left !important; */
 }
 .mapa > h4 {
   margin: 0 10px 0 10px;

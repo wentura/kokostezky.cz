@@ -21,7 +21,8 @@ require "./counter.php";
 	<link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
 	<link rel="stylesheet" href="./style.css">
-	<link rel="stylesheet" href="./build.css">
+	<link rel="stylesheet" href="./output.css">
+	<!-- <link rel="stylesheet" href="./build.css"> -->
 </head>
 
 <body class="font-mont">
@@ -30,7 +31,7 @@ require "./counter.php";
 			<?php require_once "./nav.php"; ?>
 		</div>
 	</header>
-	<main class="container container-bg mx-auto min-h-screen">
+	<main class="container container-bg mx-auto min-h-screen ">
 
 		<?php
 		if (isset($_GET['page'])) {
@@ -44,7 +45,7 @@ require "./counter.php";
 		}
 		?>
 	</main><!-- div container -->
-	<div class="footer flex-col mx-auto text-center bg-koko text-sm py-3">
+	<div class="footer flex-col mx-auto text-center bg-koko text-sm py-12">
 		<?php
 		require_once "./footer.php";
 		?>

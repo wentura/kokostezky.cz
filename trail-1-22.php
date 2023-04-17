@@ -1,5 +1,5 @@
 <article class="article blog">
-	<h2 class="text-center text-3xl lg:text-6xl">TRAILOVÝ OKRUH 1</h2>
+	<h2 class="text-center text-3xl lg:text-6xl">STARÁKY</h2>
 	<h3 class="text-center text-xl lg:text-2xl">2.patro – Levandule – Blaženka – Harakoko - Staráky</h3>
 	<h3 class="text-center text-xl lg:text-2xl">Doporučené období: jaro, léto, podzim</h3>
 
@@ -65,11 +65,11 @@
 
 
 
-			<h4>Trailový okruh 1</h4>
-			<p>20.8km, alt.580m<br /><a href=" https://en.mapy.cz/zakladni?x=14.5754168&y=50.4251400&z=15&dim=62874931f5ec8fae968a29d0" target="_blank" class="underline m-4">mapy.cz</a>
-				<br /><a href="./gpx/Trail_I_2022.gpx" target="_blank" class="underline m-4">gpx soubor</a>
+			<h4>STARÁKY</h4>
+			<p>20.8km, alt.580m<br /><a href="https://mapy.cz/s/raredocaja" target="_blank" class="underline m-4">mapy.cz</a>
+				<br /><a href="./gpx/Staraky23.gpx" target="_blank" class="underline m-4">gpx soubor</a>
 			</p>
-			<img src="./img/qr-trail-1-22.png" class="img-responsive max-w-xs mx-auto">
+			<img src="./img/Staraky23.png" class="img-responsive max-w-xs mx-auto">
 		</div>
 
 	</div>
