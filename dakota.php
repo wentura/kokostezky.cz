@@ -138,7 +138,7 @@
 				</p>
 			</section>
 			<section class="text-left pb-12 inline-block">
-				<p><strong>Koridor</strong> – ten je tu hlavně proto, abyste nepotkávali cyklisti v protisměru,
+				<p><strong>Koridor</strong> – ten je tu hlavně proto, abyste nepotkávali cyklisty v protisměru,
 					ale zábavu si na něm taky užijete. Prudký sjezd na lávku, prudký výjezd na
 					vrstevnici, utažená zatáčka a sjezd k dřevěným překážkám.</p>
 				<p class="flex">
